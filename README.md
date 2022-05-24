@@ -1,20 +1,20 @@
 # e-Commerce-Verse ![MIT](https://img.shields.io/badge/license-MIT-green)
 
   ## Description
-This command line Application allows you to Enter, save and review notes through JSON files. Simply add or remove your notes to your hearts content!
-
+A quiet back end application that utilizes Express, MySQL2 and Sequelize. Managing and tracking products through a given business/company.
   ## Visualization
 
 
   ## Technology Used
 -Javascript
+-dotenv
+-express
+-Sequelize
+-MySQL2
 
--Json
-
--express.js
 
 -Commandline Application
 
   ## Future Development
-- create edit feature
+- N/A
 
