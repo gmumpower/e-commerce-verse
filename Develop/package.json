@@ -1,28 +1,26 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-verse",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "A quiet back end application that utilizes Express, MySQL2 and Sequelize. Managing and tracking products through a given business/company.\r   ## Visualization",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/gmumpower/e-commerce-verse.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.3"
+  "bugs": {
+    "url": "https://github.com/gmumpower/e-commerce-verse/issues"
   },
+  "homepage": "https://github.com/gmumpower/e-commerce-verse#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.0"
   }
 }
