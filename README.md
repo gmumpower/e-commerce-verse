@@ -18,7 +18,7 @@ Demonstration of Sequelize ORM with database mapping to execute CRUD operations.
     *Sequelize
     
 -Make sure to create a .env file within the root directory in
-order to store your MySQL credentials like so
+order to store your MySQL credentials like below
 
     DB_USER=''
     DB_PW=''
@@ -26,7 +26,7 @@ order to store your MySQL credentials like so
 
 
 ## Visualization
-A walkthrough can be found here
+A walkthrough can be found here https://drive.google.com/file/d/1PGD44mn8C9XLXH95QtWv7jOJXHj0CoHR/view?usp=sharing
 
 
 ## Technology Used
