@@ -1,11 +1,12 @@
 {
   "name": "e-commerce-verse",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demonstration of Sequelize ORM with database mapping to execute CRUD operations. Additional use with the Node.js server we create and with a MySQL database.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
