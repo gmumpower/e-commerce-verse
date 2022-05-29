@@ -6,11 +6,17 @@ Demonstration of Sequelize ORM with database mapping to execute CRUD operations.
 
 ## Installation
 -Initiate a clone of this repository
+
 -Install dependencies including using npm i ___,
+
     *Dontenv
+
     *MySQL2
+
     *Express
+
     *Sequelize
+    
 -Make sure to create a .env file within the root directory in
 order to store your MySQL credentials like so
 
